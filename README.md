@@ -16,4 +16,4 @@
 # Instructions
 - Click the button to buy upgrades. The upgrades will give you a multiplier to earn points faster. You can buy up to 5 upgrades.
 
-# Youtube link
+# YouTube link
